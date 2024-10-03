@@ -10,7 +10,6 @@ The **Case Management Portal** is a web-based application built using .NET Core 
 - [API Documentation](#api-documentation)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Manage client records (create, view, edit, delete).
